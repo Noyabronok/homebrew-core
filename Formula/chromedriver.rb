@@ -1,7 +1,7 @@
 class Chromedriver < Formula
   desc "Tool for automated testing of webapps across many browsers"
   homepage "https://sites.google.com/a/chromium.org/chromedriver/"
-  url "https://chromedriver.storage.googleapis.com/2.30/chromedriver_mac64.zip"
+  url "https://npm.taobao.org/mirrors/chromedriver/2.30/chromedriver_mac64.zip"
   version "2.30"
   sha256 "63a6333a7e7ad8300868e04345c786ea114c13c26508cda98259a21421a09126"
 
